@@ -1,0 +1,1 @@
+C:\GitHub\Rody-dev\Xamarin\App1_ConsultarCEP\App1_ConsultarCEP\App1_ConsultarCEP.UWP\App1_ConsultarCEP.UWP.csproj;x86
