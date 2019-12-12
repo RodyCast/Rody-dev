@@ -1,0 +1,5 @@
+C:\GitHub\Rody-dev\Seção06\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\GitHub\Rody-dev\Seção06\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.Android\obj\Debug\81\App02_TipoPaginaXF.Android.nuget.stamp
+C:\GitHub\Rody-dev\Seção06\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.Android\obj\Debug\81\App02_TipoPaginaXF.Android.csprojAssemblyReference.cache
+C:\GitHub\Rody-dev\Seção06\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.Android\obj\Debug\81\libraryimports.cache.stamp
+C:\GitHub\Rody-dev\Seção06\App02_TipoPaginaXF\App02_TipoPaginaXF\App02_TipoPaginaXF.Android\obj\Debug\81\res.flag
