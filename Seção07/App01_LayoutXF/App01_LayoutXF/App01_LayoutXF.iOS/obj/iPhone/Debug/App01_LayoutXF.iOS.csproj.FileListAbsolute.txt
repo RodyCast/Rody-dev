@@ -1,0 +1,8 @@
+C:\GitHub\Rody-dev\Seção07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\GitHub\Rody-dev\Seção07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\GitHub\Rody-dev\Seção07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\GitHub\Rody-dev\Seção07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\GitHub\Rody-dev\Seção07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\GitHub\Rody-dev\Seção07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF.iOS\obj\iPhone\Debug\optimized\
+C:\GitHub\Rody-dev\Seção07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF.iOS\obj\iPhone\Debug\App01_LayoutXF.iOS.csprojAssemblyReference.cache
+C:\GitHub\Rody-dev\Seção07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF.iOS\obj\iPhone\Debug\App01_LayoutXF.iOS.csproj.CoreCompileInputs.cache

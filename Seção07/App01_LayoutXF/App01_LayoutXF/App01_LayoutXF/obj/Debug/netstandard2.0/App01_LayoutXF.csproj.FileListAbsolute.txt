@@ -1,0 +1,17 @@
+C:\GitHub\Rody-dev\Seção07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\bin\Debug\netstandard2.0\App01_LayoutXF.deps.json
+C:\GitHub\Rody-dev\Seção07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\bin\Debug\netstandard2.0\App01_LayoutXF.dll
+C:\GitHub\Rody-dev\Seção07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\bin\Debug\netstandard2.0\App01_LayoutXF.pdb
+C:\GitHub\Rody-dev\Seção07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\obj\Debug\netstandard2.0\App01_LayoutXF.csprojAssemblyReference.cache
+C:\GitHub\Rody-dev\Seção07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\GitHub\Rody-dev\Seção07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\obj\Debug\netstandard2.0\Layouts\Absolute\AbsolutePage.xaml.g.cs
+C:\GitHub\Rody-dev\Seção07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\obj\Debug\netstandard2.0\Layouts\Grid\GridPage.xaml.g.cs
+C:\GitHub\Rody-dev\Seção07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\obj\Debug\netstandard2.0\Layouts\Relative\RelativePage.xaml.g.cs
+C:\GitHub\Rody-dev\Seção07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\obj\Debug\netstandard2.0\Layouts\Scroll\ScrollPage.xaml.g.cs
+C:\GitHub\Rody-dev\Seção07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\obj\Debug\netstandard2.0\Layouts\Stack\StackPage.xaml.g.cs
+C:\GitHub\Rody-dev\Seção07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\GitHub\Rody-dev\Seção07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\obj\Debug\netstandard2.0\App01_LayoutXF.csproj.CoreCompileInputs.cache
+C:\GitHub\Rody-dev\Seção07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\obj\Debug\netstandard2.0\App01_LayoutXF.AssemblyInfoInputs.cache
+C:\GitHub\Rody-dev\Seção07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\obj\Debug\netstandard2.0\App01_LayoutXF.AssemblyInfo.cs
+C:\GitHub\Rody-dev\Seção07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\obj\Debug\netstandard2.0\XamlC.stamp
+C:\GitHub\Rody-dev\Seção07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\obj\Debug\netstandard2.0\App01_LayoutXF.dll
+C:\GitHub\Rody-dev\Seção07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\obj\Debug\netstandard2.0\App01_LayoutXF.pdb

@@ -1,0 +1,5 @@
+Margin(cria uma margem para fora entre a classe pai e as irmâs)
+Padding(cria uma margem para dentro entre as classes filhas desse staklayout)
+Orientation(Pode ser vertical ou horizontal, para deifnir a posição na tela)
+Horizontla/VertivalOptions(pode ser FillAndExpand para preencher todo o espaço da tela)
+LayoutBounds(define a posição na tela onde o objeto estará)(x,y,w,h)
