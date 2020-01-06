@@ -1,0 +1,16 @@
+C:\GitHub\Rody-dev\Seção07\App02_Xamarin\App02_Xamarin\App02_Xamarin\bin\Debug\netstandard2.0\App02_Xamarin.deps.json
+C:\GitHub\Rody-dev\Seção07\App02_Xamarin\App02_Xamarin\App02_Xamarin\bin\Debug\netstandard2.0\App02_Xamarin.dll
+C:\GitHub\Rody-dev\Seção07\App02_Xamarin\App02_Xamarin\App02_Xamarin\bin\Debug\netstandard2.0\App02_Xamarin.pdb
+C:\GitHub\Rody-dev\Seção07\App02_Xamarin\App02_Xamarin\App02_Xamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\GitHub\Rody-dev\Seção07\App02_Xamarin\App02_Xamarin\App02_Xamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\GitHub\Rody-dev\Seção07\App02_Xamarin\App02_Xamarin\App02_Xamarin\obj\Debug\netstandard2.0\Master\Menu.xaml.g.cs
+C:\GitHub\Rody-dev\Seção07\App02_Xamarin\App02_Xamarin\App02_Xamarin\obj\Debug\netstandard2.0\Pages\Perfil1.xaml.g.cs
+C:\GitHub\Rody-dev\Seção07\App02_Xamarin\App02_Xamarin\App02_Xamarin\obj\Debug\netstandard2.0\Pages\Perfil2.xaml.g.cs
+C:\GitHub\Rody-dev\Seção07\App02_Xamarin\App02_Xamarin\App02_Xamarin\obj\Debug\netstandard2.0\Pages\Xamarin.xaml.g.cs
+C:\GitHub\Rody-dev\Seção07\App02_Xamarin\App02_Xamarin\App02_Xamarin\obj\Debug\netstandard2.0\App02_Xamarin.csproj.CoreCompileInputs.cache
+C:\GitHub\Rody-dev\Seção07\App02_Xamarin\App02_Xamarin\App02_Xamarin\obj\Debug\netstandard2.0\App02_Xamarin.AssemblyInfoInputs.cache
+C:\GitHub\Rody-dev\Seção07\App02_Xamarin\App02_Xamarin\App02_Xamarin\obj\Debug\netstandard2.0\App02_Xamarin.AssemblyInfo.cs
+C:\GitHub\Rody-dev\Seção07\App02_Xamarin\App02_Xamarin\App02_Xamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\GitHub\Rody-dev\Seção07\App02_Xamarin\App02_Xamarin\App02_Xamarin\obj\Debug\netstandard2.0\App02_Xamarin.dll
+C:\GitHub\Rody-dev\Seção07\App02_Xamarin\App02_Xamarin\App02_Xamarin\obj\Debug\netstandard2.0\App02_Xamarin.pdb
+C:\GitHub\Rody-dev\Seção07\App02_Xamarin\App02_Xamarin\App02_Xamarin\obj\Debug\netstandard2.0\App02_Xamarin.csprojAssemblyReference.cache
