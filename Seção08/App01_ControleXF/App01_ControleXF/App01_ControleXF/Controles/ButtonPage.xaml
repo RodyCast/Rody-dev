@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App01_ControleXF.Controles.ButtonPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Button Text="Botão 1" 
+                    TextColor="Blue"
+                    FontSize="24"
+                    BorderColor="Red"
+                    BorderRadius="20"
+                    BorderWidth="5"
+                    
+                    BackgroundColor="White"
+                    />
+            <Button Text="Botão 2"/>
+            <Button Image="PowerButton.png" HorizontalOptions="Start" BackgroundColor="Transparent"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

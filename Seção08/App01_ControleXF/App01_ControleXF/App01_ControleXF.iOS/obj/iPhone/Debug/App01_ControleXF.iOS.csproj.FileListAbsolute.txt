@@ -1,0 +1,8 @@
+C:\GitHub\Rody-dev\Seção08\App01_ControleXF\App01_ControleXF\App01_ControleXF.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\GitHub\Rody-dev\Seção08\App01_ControleXF\App01_ControleXF\App01_ControleXF.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\GitHub\Rody-dev\Seção08\App01_ControleXF\App01_ControleXF\App01_ControleXF.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\GitHub\Rody-dev\Seção08\App01_ControleXF\App01_ControleXF\App01_ControleXF.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\GitHub\Rody-dev\Seção08\App01_ControleXF\App01_ControleXF\App01_ControleXF.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\GitHub\Rody-dev\Seção08\App01_ControleXF\App01_ControleXF\App01_ControleXF.iOS\obj\iPhone\Debug\optimized\
+C:\GitHub\Rody-dev\Seção08\App01_ControleXF\App01_ControleXF\App01_ControleXF.iOS\obj\iPhone\Debug\App01_ControleXF.iOS.csprojAssemblyReference.cache
+C:\GitHub\Rody-dev\Seção08\App01_ControleXF\App01_ControleXF\App01_ControleXF.iOS\obj\iPhone\Debug\App01_ControleXF.iOS.csproj.CoreCompileInputs.cache
