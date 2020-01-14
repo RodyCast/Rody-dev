@@ -1,0 +1,13 @@
+C:\GitHub\Rody-dev\Seção08\App2_Tarefa\App2_Tarefa\App2_Tarefa\bin\Debug\netstandard2.0\App2_Tarefa.deps.json
+C:\GitHub\Rody-dev\Seção08\App2_Tarefa\App2_Tarefa\App2_Tarefa\bin\Debug\netstandard2.0\App2_Tarefa.dll
+C:\GitHub\Rody-dev\Seção08\App2_Tarefa\App2_Tarefa\App2_Tarefa\bin\Debug\netstandard2.0\App2_Tarefa.pdb
+C:\GitHub\Rody-dev\Seção08\App2_Tarefa\App2_Tarefa\App2_Tarefa\obj\Debug\netstandard2.0\App2_Tarefa.csprojAssemblyReference.cache
+C:\GitHub\Rody-dev\Seção08\App2_Tarefa\App2_Tarefa\App2_Tarefa\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\GitHub\Rody-dev\Seção08\App2_Tarefa\App2_Tarefa\App2_Tarefa\obj\Debug\netstandard2.0\Telas\Cadastro.xaml.g.cs
+C:\GitHub\Rody-dev\Seção08\App2_Tarefa\App2_Tarefa\App2_Tarefa\obj\Debug\netstandard2.0\Telas\Inicio.xaml.g.cs
+C:\GitHub\Rody-dev\Seção08\App2_Tarefa\App2_Tarefa\App2_Tarefa\obj\Debug\netstandard2.0\App2_Tarefa.csproj.CoreCompileInputs.cache
+C:\GitHub\Rody-dev\Seção08\App2_Tarefa\App2_Tarefa\App2_Tarefa\obj\Debug\netstandard2.0\App2_Tarefa.AssemblyInfoInputs.cache
+C:\GitHub\Rody-dev\Seção08\App2_Tarefa\App2_Tarefa\App2_Tarefa\obj\Debug\netstandard2.0\App2_Tarefa.AssemblyInfo.cs
+C:\GitHub\Rody-dev\Seção08\App2_Tarefa\App2_Tarefa\App2_Tarefa\obj\Debug\netstandard2.0\XamlC.stamp
+C:\GitHub\Rody-dev\Seção08\App2_Tarefa\App2_Tarefa\App2_Tarefa\obj\Debug\netstandard2.0\App2_Tarefa.dll
+C:\GitHub\Rody-dev\Seção08\App2_Tarefa\App2_Tarefa\App2_Tarefa\obj\Debug\netstandard2.0\App2_Tarefa.pdb
