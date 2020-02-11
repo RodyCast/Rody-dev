@@ -1,0 +1,12 @@
+C:\GitHub\Rody-dev\Seção11\App1_Vagas\App1_Vagas\App1_Vagas\bin\Debug\netstandard2.0\App1_Vagas.deps.json
+C:\GitHub\Rody-dev\Seção11\App1_Vagas\App1_Vagas\App1_Vagas\bin\Debug\netstandard2.0\App1_Vagas.dll
+C:\GitHub\Rody-dev\Seção11\App1_Vagas\App1_Vagas\App1_Vagas\obj\Debug\netstandard2.0\App1_Vagas.csprojAssemblyReference.cache
+C:\GitHub\Rody-dev\Seção11\App1_Vagas\App1_Vagas\App1_Vagas\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\GitHub\Rody-dev\Seção11\App1_Vagas\App1_Vagas\App1_Vagas\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\GitHub\Rody-dev\Seção11\App1_Vagas\App1_Vagas\App1_Vagas\obj\Debug\netstandard2.0\App1_Vagas.csproj.CoreCompileInputs.cache
+C:\GitHub\Rody-dev\Seção11\App1_Vagas\App1_Vagas\App1_Vagas\obj\Debug\netstandard2.0\App1_Vagas.AssemblyInfoInputs.cache
+C:\GitHub\Rody-dev\Seção11\App1_Vagas\App1_Vagas\App1_Vagas\obj\Debug\netstandard2.0\App1_Vagas.AssemblyInfo.cs
+C:\GitHub\Rody-dev\Seção11\App1_Vagas\App1_Vagas\App1_Vagas\bin\Debug\netstandard2.0\App1_Vagas.pdb
+C:\GitHub\Rody-dev\Seção11\App1_Vagas\App1_Vagas\App1_Vagas\obj\Debug\netstandard2.0\XamlC.stamp
+C:\GitHub\Rody-dev\Seção11\App1_Vagas\App1_Vagas\App1_Vagas\obj\Debug\netstandard2.0\App1_Vagas.dll
+C:\GitHub\Rody-dev\Seção11\App1_Vagas\App1_Vagas\App1_Vagas\obj\Debug\netstandard2.0\App1_Vagas.pdb
